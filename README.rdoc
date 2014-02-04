@@ -1,6 +1,6 @@
-== Aylin Weiß
+== Patrick Dzielinski
 
-Mit  diesem Programmchen können Sie Prüfen ob zwei von ihnen definierten Zahlen Teilbar sind durch ZAhlen wo sie 
+Mit  diesem Programm können Sie Prüfen ob zwei von ihnen definierten Zahlen Teilbar sind durch ZAhlen wo sie 
 die Grenze Definieren können.
 
 Für die definition von werden müssen sie auf controllers und die werte ändern.
